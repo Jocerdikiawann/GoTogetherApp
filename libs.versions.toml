@@ -86,7 +86,7 @@ coil-compose = { group = "io.coil-kt", name = "coil-compose", version = "2.6.0" 
 jetbrains-kotlinxCoroutineAndroid = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-android", version = "1.7.3" }
 
 #Joda
-joda-time = { group = "joda-time", name = "joda-time", version = "2.12.5" }
+joda-time = { group = "joda-time", name = "joda-time", version = "2.13.1" }
 
 #Junit
 junit = { group = "junit", name = "junit", version = "4.13.2" }
