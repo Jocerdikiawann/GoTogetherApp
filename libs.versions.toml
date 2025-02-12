@@ -36,7 +36,7 @@ androidx-activityCompose = { group = "androidx.activity", name = "activity-compo
 androidx-material3 = { group = "androidx.compose.material3", name = "material3", version = "1.1.2" }
 androidx-uiTooling = { group = "androidx.compose.ui", name = "ui-tooling", version.ref = "composeVersion" }
 androidx-uiTestManifest = { group = "androidx.compose.ui", name = "ui-test-manifest", version.ref = "composeVersion" }
-androidx-runtimeLiveData = { group = "androidx.compose.runtime", name = "runtime-livedata", version = "1.5.4" }
+androidx-runtimeLiveData = { group = "androidx.compose.runtime", name = "runtime-livedata", version = "1.7.8" }
 androidx-uiUtil = { group = "androidx.compose.ui", name = "ui-util", version.ref = "composeVersion" }
 androidx-hiltNavigationCompose = { group = "androidx.hilt", name = "hilt-navigation-compose", version = "1.2.0" }
 
