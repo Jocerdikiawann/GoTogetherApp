@@ -10,7 +10,7 @@ daggerHiltVersion = "2.48.1"
 accompanistVersion = "0.34.0"
 mapsUtilVersion = "3.4.0"
 composeMapsVersion = "4.4.0"
-androidPluginVersion = "8.1.4"
+androidPluginVersion = "8.8.1"
 appCompatVersion = "1.6.1"
 
 [libraries]
